@@ -3,7 +3,7 @@ Hi, Hope you're doing well!
 This is a research-based project that is based on Virtual Assistant. In this project, JavaScript has been used smoothly for better research.
 
 # 🔥 Installation Process
-01. Download the project from GitHub (https://github.com/hello-shohanur/Virtual-Assistant.git)
+01. Download/Clone the project from GitHub (https://github.com/IshanSanjeev/Batch-16-DesignProject)
 
 02. Install Visual Studio Code
 
@@ -19,6 +19,6 @@ This is a research-based project that is based on Virtual Assistant. In this pro
 
 08. Your default browser will open and the VOICE will come in front of you
 
-09. Then, click on the mic button and start talking with Shocave
+09. Then, click on the mic button and start talking with VOICE
 
 
